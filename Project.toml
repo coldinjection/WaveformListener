@@ -1,0 +1,12 @@
+name = "WaveformListener"
+uuid = "e9fda827-dbb9-4d6c-98f2-6a2dc996f6e4"
+authors = ["coldinjection"]
+version = "0.1.0"
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+LibSndFile = "b13ce0c6-77b0-50c6-a2db-140568b8d1a5"
+SampledSignals = "bd7594eb-a658-542f-9e75-4c4d8908c167"
